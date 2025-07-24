@@ -1,1 +1,0 @@
-const s="Home",e="Support",o="Meilisearch Docs",c="Issues",r="Open Source",t={home:s,support:e,meilisearch_docs:o,issues:c,open_source:r};export{t as default,s as home,c as issues,o as meilisearch_docs,r as open_source,e as support};

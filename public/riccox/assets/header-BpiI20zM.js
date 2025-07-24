@@ -1,1 +1,0 @@
-const s="主页",e="支持",o="Meilisearch 文档",c="报告问题",t="开源",r={home:s,support:e,meilisearch_docs:o,issues:c,open_source:t};export{r as default,s as home,c as issues,o as meilisearch_docs,t as open_source,e as support};

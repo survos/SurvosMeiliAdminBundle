@@ -1,1 +1,0 @@
-const e="技术支持",i="正在使用的 Meilisearch JS SDK 版本",s="请注意关注该SDK版本与你正在使用的 Meilisearch 实例版本的适配性以获得良好的使用体验",r={powered_by:e,meilisearchJSInUse:i,meilisearchVersionTip:s};export{r as default,i as meilisearchJSInUse,s as meilisearchVersionTip,e as powered_by};
